@@ -10,32 +10,31 @@ First, people use Meetaverse to meet in real life.
 
 And after, they meet in the metaverse.
 
-## Parte 01 - Configuración de requisitos previos:
+### Want to run it on your PC?
 
-- Clonar este repositorio
+## Part 1 - Configuration:
+
+- Clone this repo:
 
 `git clone https://github.com/Club43businessarts/Meetaverse-Project.git`
+
+- Go to the correct directory:
+
+`cd Meetaverse-Project`
 
 - Ejecutar el archivo "main.py"
 
 `python main.py`
 
-## Parte 02 - Acceso a la interfaz:
+## Parte 02 - Access the interface:
 
-- Entrar en el navegador web:
-
-http://127.0.0.1:8000/
-
-
-
+- Click: http://127.0.0.1:8000/
 
 ![interfaz](https://user-images.githubusercontent.com/84716641/152209284-b17dfe93-7e85-4b7a-a242-0bde08644a5e.png)
 
-
-
 ## Demo Video
 
-- [Demo Metaverso](https://www.youtube.com/watch?v=Pnmf1wy74E4)
+- [Demo Meetaverse](https://www.youtube.com/watch?v=Pnmf1wy74E4)
 
   
 
