@@ -1,0 +1,11 @@
+attrs:
+    Figure:
+        background_fill_color: "whitesmoke"
+        outline_line_color: "#E0E0E0"
+        height: 1000
+        width: 1000
+    Grid:
+        grid_line_dash: [6, 4]
+        grid_line_color: "#E0E0E0"
+        
+
