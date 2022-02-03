@@ -14,19 +14,27 @@ And after, they meet in the metaverse.
 
 ## Part 1 - Configuration:
 
+You should have python installed. Take a look at [*requirements.txt*](https://github.com/Club43businessarts/Meetaverse-Project/blob/main/requirements.txt)
+
 - Clone this repo:
 
-`git clone https://github.com/Club43businessarts/Meetaverse-Project.git`
+```sh
+git clone https://github.com/Club43businessarts/Meetaverse-Project.git
+```
 
 - Go to the correct directory:
 
-`cd Meetaverse-Project`
+```sh
+cd Meetaverse-Project
+```
 
-- Ejecutar el archivo "main.py"
+- Execute "main.py"
 
-`python main.py`
+```sh
+python main.py
+```
 
-## Parte 02 - Access the interface:
+## Part 2 - Access the interface:
 
 - Click: http://127.0.0.1:8000/
 
