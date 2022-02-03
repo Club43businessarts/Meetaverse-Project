@@ -1,18 +1,20 @@
-# Bienvenidos al Metaverso
-
-## |Data_Project 1 - Grupo 6| EDEM 2022
-
-
+# Welcome to the Meetaverse
 
 # ![image](https://user-images.githubusercontent.com/84716641/152009071-d3c25b43-573e-4069-95c2-09dcef797772.jpeg)
 
+Meetaverse is a project to be included inside a social network such as Instagram that connects people with restaurants, coffee shops and any other place people can meet at and earns a comission on every transaction.
 
+The metaverse will someday become a reality and this will be the first step into that new reality.
+
+First, people use Meetaverse to meet in real life.
+
+And after, they meet in the metaverse.
 
 ## Parte 01 - Configuración de requisitos previos:
 
 - Clonar este repositorio
 
-`git clone https://github.com/hectorgjdata/DataProjectGrupo6.git`
+`git clone https://github.com/Club43businessarts/Meetaverse-Project.git`
 
 - Ejecutar el archivo "main.py"
 
@@ -31,7 +33,7 @@ http://127.0.0.1:8000/
 
 
 
-## Video demostración
+## Demo Video
 
 - [Demo Metaverso](https://www.youtube.com/watch?v=Pnmf1wy74E4)
 
